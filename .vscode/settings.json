@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/dd70086c-7717-43e2-b3fb-f43fc007317d/resourceGroups/az-webapp-rg1/providers/Microsoft.Web/sites/az-webapp-pasindu"
+}
